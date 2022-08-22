@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: EC Search Engine
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bhumit
+Implementation-Vendor-Id: com.ecsearchengine
+Build-Jdk: 1.8.0_51
+Implementation-URL: http://projects.spring.io/spring-boot/ec-search-en
+ gine/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
